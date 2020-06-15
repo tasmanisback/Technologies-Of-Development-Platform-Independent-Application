@@ -1,0 +1,66 @@
+body {
+    background-color: #e5e5e5;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    height: 800px;
+}
+
+.profile {
+    width: 100%;
+    height: 220px;
+}
+
+.profile_button {
+    float: right;
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #ced8f0;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #a0b5ff;
+}
+
+.hotel_form {
+    width: 100%;
+    height: 400px;
+}
+
+.selection_form {
+    width: 19%;
+    height: 50px;
+    border-width: 4px;
+    border-color: orange;
+    border-style: solid;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.formo4ka {
+    width: 100%;
+    height: 200px;
+}
+
+.footer {
+    height: 326px;
+    width: 100%;
+    text-align: center;
+}
+
+.notification {
+    padding-top: 30px;
+    width: 400px;
+    margin: auto;
+}
+
+.rights_reserved {
+    width: 400px;
+    margin: auto;
+    padding-top: 150px;
+}
